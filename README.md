@@ -2,7 +2,7 @@
 
 
 
-📢 Bu repo Youtube'da tamamladığım C# Eğitim Kampınınin final caseni içermektedir.
+📢 Bu repo Youtube'da tamamladığım C# Eğitim Kampının final caseni içermektedir.
 
 
  
