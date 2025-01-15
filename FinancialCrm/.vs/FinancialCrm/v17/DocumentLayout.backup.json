@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF45FE95-86F5-4046-8498-AD8AB4D00696}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\financialcrm\\frmayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF45FE95-86F5-4046-8498-AD8AB4D00696}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF45FE95-86F5-4046-8498-AD8AB4D00696}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\emir ali\\documents\\projeler\\c#egitimkampi\\financialcrm\\financialcrm\\frmbankahareketleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF45FE95-86F5-4046-8498-AD8AB4D00696}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmbankahareketleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF45FE95-86F5-4046-8498-AD8AB4D00696}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\emir ali\\documents\\projeler\\c#egitimkampi\\financialcrm\\financialcrm\\frmbankahareketleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF45FE95-86F5-4046-8498-AD8AB4D00696}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmbankahareketleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF45FE95-86F5-4046-8498-AD8AB4D00696}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\emir ali\\documents\\projeler\\c#egitimkampi\\financialcrm\\financialcrm\\frmgosterge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF45FE95-86F5-4046-8498-AD8AB4D00696}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmgosterge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF45FE95-86F5-4046-8498-AD8AB4D00696}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\financialcrm\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF45FE95-86F5-4046-8498-AD8AB4D00696}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF45FE95-86F5-4046-8498-AD8AB4D00696}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\financialcrm\\frmbankalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF45FE95-86F5-4046-8498-AD8AB4D00696}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmbankalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF45FE95-86F5-4046-8498-AD8AB4D00696}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\emir ali\\documents\\projeler\\c#egitimkampi\\financialcrm\\financialcrm\\frmfaturalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF45FE95-86F5-4046-8498-AD8AB4D00696}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmfaturalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF45FE95-86F5-4046-8498-AD8AB4D00696}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\emir ali\\documents\\projeler\\c#egitimkampi\\financialcrm\\financialcrm\\giderler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF45FE95-86F5-4046-8498-AD8AB4D00696}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\giderler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBankaHareketleri.cs",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\FinancialCrm\\FrmBankaHareketleri.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmBankaHareketleri.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\FinancialCrm\\FrmBankaHareketleri.cs",
+              "RelativeToolTip": "FinancialCrm\\FrmBankaHareketleri.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA9wBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:20:02.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmBankalar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\FinancialCrm\\FrmBankalar.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmBankalar.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\FinancialCrm\\FrmBankalar.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmBankalar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:40:20.1Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmFaturalar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\FinancialCrm\\FrmFaturalar.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmFaturalar.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\FinancialCrm\\FrmFaturalar.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmFaturalar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:29:13.778Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Giderler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\FinancialCrm\\Giderler.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\Giderler.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\FinancialCrm\\Giderler.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\Giderler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:28:37.143Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmBankaHareketleri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\FinancialCrm\\FrmBankaHareketleri.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmBankaHareketleri.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\FinancialCrm\\FrmBankaHareketleri.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmBankaHareketleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:28:26.672Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmGosterge.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\FinancialCrm\\FrmGosterge.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmGosterge.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\FinancialCrm\\FrmGosterge.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmGosterge.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:28:23.884Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAyarlar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\FinancialCrm\\FrmAyarlar.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmAyarlar.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\FinancialCrm\\FrmAyarlar.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmAyarlar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:28:39.064Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmGiris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\FinancialCrm\\FrmGiris.cs",
+              "RelativeDocumentMoniker": "FinancialCrm\\FrmGiris.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C#EgitimKampi\\FinancialCrm\\FinancialCrm\\FrmGiris.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmGiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:28:35.79Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
